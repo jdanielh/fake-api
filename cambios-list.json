@@ -20,18 +20,18 @@
     },
     {
         "title": "SIGNOS DE ALARMA DURANTE EL PUERPERIO ",
-        "content": null,
+        "content": "",
         "subcontents":[
             {
                 "subtitle": "Acudí inmediatamente al establecimiento de salud más cercano si tenés una o más de estas situaciones:",
                 "content": ["cefalea: dolor de cabeza - akãrasy", "epigastralgia: dolor en la zona del estómago - py’arasy", "dolor en bajo vientre: dolor en la panza – ty’érasy", "contracciones: endurecimiento del útero – hembepyatã", "disuria: dolor al orinar – ty’asy", "fiebre: akãnundu", "visión borrosa: ndahechái porã, ahechavaipa", "pérdida de sangre por vagina: tygýpa", "disnea: dificultad para respirar - juku’a", "mareo: akãnga’u", "convulsiones: ataque - kuruchi", "dificultades para amamantar: nokambúi porã", "mastalgia: o dolor en mamas - pechoasy", "dolor de pezones o grietas: titipuntajekapa", "signos inflamatorios en mamas (mastitis) y pezones: dolor, calor, enrojecimiento e hinchazón", "signos inflamatorios en las piernas: dolor, calor, enrojecimiento, hinchazón", "signos inflamatorios en heridas: dolor, calor, enrojecimiento, hinchazón", "loquios con mal olor: pérdidas por vagina después del parto con mal olor"]
             }
         ],
-        "important_content": null
+        "important_content": []
     },
     {
         "title": "PREPARÁNDOME PARA AMAMANTAR",
-        "content": null,
+        "content": "",
         "subcontents":[
             {
                 "subtitle": "Técnicas de lactancia",
@@ -85,22 +85,22 @@
                 "content": ["Le visto siempre de acuerdo al clima, ropa liviana, preferentemente de algodón.", "Utilizo gorrita y medias para cubrirle la cabeza y los pies.", "La mejor manera de mantener la temperatura de mi bebé es colocarlos sobre mi pecho y en contacto con mi piel.", "Evito el contacto con personas enfermas y mantengo el ambiente limpio, ventilado y libre de polvo."]
             }
         ],
-        "important_content": null
+        "important_content": []
     },
     {
         "title": "SIGNOS DE ALARMA DEL RECIÉN NACIDO",
-        "content": null,
+        "content": "",
         "subcontents":[
             {
                 "subtitle": "Acudo inmediatamente al establecimiento de salud más cercano si mi bebé presenta alguno de las siguientes señales de peligro: ",
                 "content": ["Tiene fiebre/akãnundu", "Se pone frío/ ho’ysamba", "No puede mamar / nokambúi", "Vomita todo lo que toma / py’ájere, ombogue’ẽ opa ho’úva", "Respira con dificultad / juku’a", "Tiene diarrea / ty’e chivivi", "Tiene el ombligo rojo o con pus / ipuru’a pytã, puru’a opu", "Tiene secreción en los ojos / tesã rasy", "Tiene la piel amarilla / tiricia, isa’yjupa ipire "]
             }
         ],
-        "important_content": null
+        "important_content": []
     },
     {
         "title": "PLANIFICACIÓN FAMILIAR",
-        "content": null,
+        "content": "",
         "subcontents":[
             {
                 "subtitle": "¿Debemos utilizar algún método anticonceptivo después del parto?",
@@ -131,7 +131,7 @@
                 "content": ["Sí, siempre que ocurra una relación sexual no protegida o sin garantías de protección es recomendable utilizar la anticoncepción hormonal de emergencia a fin de evitar un embarazo no planificado.", "Es un tratamiento con progesterona, que tiene que tomarse tan pronto como sea posible y hasta 5 días después de la relación sin protección. Se puede retirar se los servicios de salud de manera gratuita a cualquier hora que sea requerido", "Este tratamiento se puede realizar también durante la lactancia y prácticamente no tiene efectos secundarios. Se debe recordar que es un método de emergencia, no es un método de uso rutinario.", "Recuerda que puedes pedir más información sobre planificación familiar posparto en todos los servicios de salud."]
             }
         ],
-        "important_content":null
+        "important_content":[]
     }
 
   
