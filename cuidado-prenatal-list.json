@@ -36,17 +36,17 @@
           {
              "subtitle":"Mi pareja y otros integrantes de mi familia deben apoyarme o realizar las siguientes tareas:",
              "content":[
-                "preparar alimentos",
-                "cuidar, limpiar y alimentar a los niños mayores",
-                "cocinar, limpiar la casa y lavar la ropa y los utensilios de la cocina",
-                "facilitar y acompañarme a las consultas prenatales y al parto, así como a las consultas posnatales y del bebé"
+                "preparar alimentos.",
+                "cuidar, limpiar y alimentar a los niños mayores.",
+                "cocinar, limpiar la casa y lavar la ropa y los utensilios de la cocina.",
+                "facilitar y acompañarme a las consultas prenatales y al parto, así como a las consultas posnatales y del bebé."
              ]
           },
           {
              "subtitle":"Recomendaciones generales",
              "content":[
-                "Consumo a diario alimentos sanos y variados",
-                "Rechazo ingerir bebidas alcohólicas y aquellas que tengan cafeína (café, té, mate, tereré, chocolate, gaseosas)",
+                "Consumo a diario alimentos sanos y variados.",
+                "Rechazo ingerir bebidas alcohólicas y aquellas que tengan cafeína (café, té, mate, tereré, chocolate, gaseosas).",
                 "Evito fumar tabaco y la exposición al humo que producen las personas que fuman.",
                 "No debo consumir drogas.",
                 "Evito manipular o inhalar sustancias tóxicas como agrotóxicos o agroquímicos.",
@@ -111,7 +111,7 @@
              "content":[
                 "Diagnóstico o sospecha de embarazo múltiple.",
                 "Edad menor a 16 años o más de 40 años.",
-                "Isoinmunización Rh (-) en el embarazo actual o en embarazos anteriores",
+                "Isoinmunización Rh (-) en el embarazo actual o en embarazos anteriores.",
                 "Pérdidas rojas por la vagina.",
                 "Tumores pélvicos.",
                 "Presión arterial diastólica de 90mmHg o más durante el registro.",
@@ -170,21 +170,21 @@
           {
              "subtitle":"Signos de alarma",
              "content":[
-                "cefalea, dolor de cabeza - che akãrasy",
-                "epigastralgia, dolor en la zona del estómago - che py’arasy",
-                "dolor en el bajo vientre – che ry’érasy",
-                "contracciones, endurecimiento del útero – che hembepyhatᾶ",
-                "disuria, dolor al orinar- che tyasy",
-                "fiebre- che akãnundu",
-                "visión borrosa- ndahechái porã, ahechávaipa",
-                "pérdida de sangre por la vagina- che rugýpa",
-                "pérdida de líquido amniótico por la vagina",
-                "pérdida de líquido amniótico por la vagina con mal olor",
-                "disnea, dificultad para respirar- che juku’a",
-                "mareo, che akanga’u",
-                "convulsiones",
-                "rash cutáneo",
-                "hipomotilidad fetal, disminución de los movimientos fetales- nañandúi che memby, ndoku’éi che memby"
+                "cefalea, dolor de cabeza - che akãrasy.",
+                "epigastralgia, dolor en la zona del estómago - che py’arasy.",
+                "dolor en el bajo vientre – che ry’érasy.",
+                "contracciones, endurecimiento del útero – che hembepyhatᾶ.",
+                "disuria, dolor al orinar- che tyasy.",
+                "fiebre- che akãnundu.",
+                "visión borrosa- ndahechái porã, ahechávaipa.",
+                "pérdida de sangre por la vagina- che rugýpa.",
+                "pérdida de líquido amniótico por la vagina.",
+                "pérdida de líquido amniótico por la vagina con mal olor.",
+                "disnea, dificultad para respirar- che juku’a.",
+                "mareo, che akanga’u.",
+                "convulsiones.",
+                "rash cutáneo.",
+                "hipomotilidad fetal, disminución de los movimientos fetales- nañandúi che memby, ndoku’éi che memby."
              ]
           }
        ],
@@ -224,7 +224,7 @@
                 "saber cómo se encuentra mi bebé, para eso examinarán mi panza, la medirán y tocarán para escuchar sus latidos según la edad gestacional que tenga,",
                 "recibir consejería en alimentación y lactancia materna,",
                 "que me realicen análisis de sangre y orina y conocer los resultados,",
-                "consejería para que me hagan los test de VIH, sífilis, hepatitis B, enfermedad de Chagas",
+                "consejería para que me hagan los test de VIH, sífilis, hepatitis B, enfermedad de Chagas,",
                 "recibir las vacunas indicadas,",
                 "que me provean de hierro, calcio, ácido fólico,",
                 "recibir información sobre los cuidados para proteger mi salud y la de mi bebé,",
@@ -247,11 +247,11 @@
           {
              "subtitle":"Durante el trabajo de parto, esta persona debe:",
              "content":[
-                "colaborar para que yo cumpla las indicaciones del personal de salud",
-                "ayudarme a caminar y a movilizarme cuando esté indicado",
+                "colaborar para que yo cumpla las indicaciones del personal de salud.",
+                "ayudarme a caminar y a movilizarme cuando esté indicado.",
                 "ofrecerme alimento ligero y líquidos.",
-                "darme confianza y animarme",
-                "estar atenta a los signos de alarma que pudieran presentarse"
+                "darme confianza y animarme.",
+                "estar atenta a los signos de alarma que pudieran presentarse."
              ]
           }
        ],

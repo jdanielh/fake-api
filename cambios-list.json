@@ -5,7 +5,7 @@
         "subcontents": [
             {
                 "subtitle": "Higiene personal:",
-                "content": ["baño diario", "lavado externo con agua y jabón de los genitales como mínimo dos veces al día, no realizar lavados ni duchas vaginales", "cambiar las toallas higiénicas varias veces al día. Lo ideal es hacerlo cada 3 horas", "en caso de haber recibido sutura, mantener la herida limpia y seca", "es recomendable lavarse el cabello en forma regular"]
+                "content": ["baño diario.", "lavado externo con agua y jabón de los genitales como mínimo dos veces al día, no realizar lavados ni duchas vaginales.", "cambiar las toallas higiénicas varias veces al día. Lo ideal es hacerlo cada 3 horas.", "en caso de haber recibido sutura, mantener la herida limpia y seca.", "es recomendable lavarse el cabello en forma regular."]
             },
             {
                 "subtitle": "Alimentación:",
@@ -13,7 +13,7 @@
             },
             {
                 "subtitle": "Relaciones sexuales: ",
-                "content": ["elegí algún método de planificación familiar antes de iniciar las relaciones sexuales", "podes retomar las relaciones cuando hayan desaparecido el sangrado y las molestias perineales"]
+                "content": ["elegí algún método de planificación familiar antes de iniciar las relaciones sexuales.", "podes retomar las relaciones cuando hayan desaparecido el sangrado y las molestias perineales"]
             }
         ],
         "important_content": ["Debes volver al servicio de salud a los 8 días después de tu parto para control o ante cualquier signo de alarma"]
@@ -24,7 +24,7 @@
         "subcontents":[
             {
                 "subtitle": "Acudí inmediatamente al establecimiento de salud más cercano si tenés una o más de estas situaciones:",
-                "content": ["cefalea: dolor de cabeza - akãrasy", "epigastralgia: dolor en la zona del estómago - py’arasy", "dolor en bajo vientre: dolor en la panza – ty’érasy", "contracciones: endurecimiento del útero – hembepyatã", "disuria: dolor al orinar – ty’asy", "fiebre: akãnundu", "visión borrosa: ndahechái porã, ahechavaipa", "pérdida de sangre por vagina: tygýpa", "disnea: dificultad para respirar - juku’a", "mareo: akãnga’u", "convulsiones: ataque - kuruchi", "dificultades para amamantar: nokambúi porã", "mastalgia: o dolor en mamas - pechoasy", "dolor de pezones o grietas: titipuntajekapa", "signos inflamatorios en mamas (mastitis) y pezones: dolor, calor, enrojecimiento e hinchazón", "signos inflamatorios en las piernas: dolor, calor, enrojecimiento, hinchazón", "signos inflamatorios en heridas: dolor, calor, enrojecimiento, hinchazón", "loquios con mal olor: pérdidas por vagina después del parto con mal olor"]
+                "content": ["cefalea: dolor de cabeza - akãrasy.", "epigastralgia: dolor en la zona del estómago - py’arasy.", "dolor en bajo vientre: dolor en la panza – ty’érasy.", "contracciones: endurecimiento del útero – hembepyatã.", "disuria: dolor al orinar – ty’asy.", "fiebre: akãnundu.", "visión borrosa: ndahechái porã, ahechavaipa.", "pérdida de sangre por vagina: tygýpa.", "disnea: dificultad para respirar - juku’a.", "mareo: akãnga’u.", "convulsiones: ataque - kuruchi.", "dificultades para amamantar: nokambúi porã.", "mastalgia: o dolor en mamas - pechoasy.", "dolor de pezones o grietas: titipuntajekapa.", "signos inflamatorios en mamas (mastitis) y pezones: dolor, calor, enrojecimiento e hinchazón.", "signos inflamatorios en las piernas: dolor, calor, enrojecimiento, hinchazón.", "signos inflamatorios en heridas: dolor, calor, enrojecimiento, hinchazón.", "loquios con mal olor: pérdidas por vagina después del parto con mal olor"]
             }
         ],
         "important_content": []
@@ -39,15 +39,17 @@
             },
             {
                 "subtitle": "Beneficios de la leche materna",
-                "content":["Favorece el establecimiento de un vínculo muy especial entre la madre y su bebé.", "Ayuda a contraer el útero y previene las hemorragias", "Tiene todos los nutrientes que necesita el bebé para crecer saludable, fuerte, seguro e inteligente.", "Se digiere fácilmente, por lo tanto tu bebé tiene menos riesgo de sufrir cólicos (dolor de panza) y estreñimiento.", "Disminuye el riesgo de enfermedades como diarrea, resfrío, neumonía, alergias y desnutrición.", "Es gratuita.", "Está siempre lista y disponible.", "No contamina el medio ambiente."]
+                "content":["Favorece el establecimiento de un vínculo muy especial entre la madre y su bebé.", "Ayuda a contraer el útero y previene las hemorragias.", "Tiene todos los nutrientes que necesita el bebé para crecer saludable, fuerte, seguro e inteligente.", "Se digiere fácilmente, por lo tanto tu bebé tiene menos riesgo de sufrir cólicos (dolor de panza) y estreñimiento.", "Disminuye el riesgo de enfermedades como diarrea, resfrío, neumonía, alergias y desnutrición.", "Es gratuita.", "Está siempre lista y disponible.", "No contamina el medio ambiente."]
             },
             {
                 "subtitle": "Riesgos de no amamantar",
-                "content":["Incremento de gastos familiares por la compra de leche de fórmula, biberones, insumos y energía.", "Mayor necesidad de tiempo, dinero y preocupaciones para la familia por los problemas de salud que tienden a aparecer.", "Aumenta el riesgo de que los bebés contraigan enfermedades graves (diarreas, enfermedades respiratorias y de oído).", "Más posibilidad de que los bebés tengan un crecimiento deficiente o contraigan enfermedades", "Tu bebé no necesita agua, té, jugos, ni ningún tipo de bebidas salvo la leche materna."]
+                "content":["Incremento de gastos familiares por la compra de leche de fórmula, biberones, insumos y energía.", "Mayor necesidad de tiempo, dinero y preocupaciones para la familia por los problemas de salud que tienden a aparecer.", "Aumenta el riesgo de que los bebés contraigan enfermedades graves (diarreas, enfermedades respiratorias y de oído).", "Más posibilidad de que los bebés tengan un crecimiento deficiente o contraigan enfermedades.", "Tu bebé no necesita agua, té, jugos, ni ningún tipo de bebidas salvo la leche materna."]
             },
             {
+
+
                 "subtitle": "Algunas de las señales de que tú bebé tiene hambre son:",
-                "content": ["abre la boca, estira la lengua y/o gira la cabecita buscando el pecho", "gime suavemente", "chupa o succiona su manito, sábana u objetos que tocan su boca", "aumentan los movimientos de sus ojos"]
+                "content": ["abre la boca, estira la lengua y/o gira la cabecita buscando el pecho.", "gime suavemente.", "chupa o succiona su manito, sábana u objetos que tocan su boca.", "aumentan los movimientos de sus ojos"]
             },
             {
                 "subtitle": "Agarre correcto",
@@ -93,7 +95,7 @@
         "subcontents":[
             {
                 "subtitle": "Acudo inmediatamente al establecimiento de salud más cercano si mi bebé presenta alguno de las siguientes señales de peligro: ",
-                "content": ["Tiene fiebre/akãnundu", "Se pone frío/ ho’ysamba", "No puede mamar / nokambúi", "Vomita todo lo que toma / py’ájere, ombogue’ẽ opa ho’úva", "Respira con dificultad / juku’a", "Tiene diarrea / ty’e chivivi", "Tiene el ombligo rojo o con pus / ipuru’a pytã, puru’a opu", "Tiene secreción en los ojos / tesã rasy", "Tiene la piel amarilla / tiricia, isa’yjupa ipire "]
+                "content": ["Tiene fiebre/akãnundu.", "Se pone frío/ ho’ysamba.", "No puede mamar / nokambúi.", "Vomita todo lo que toma / py’ájere, ombogue’ẽ opa ho’úva.", "Respira con dificultad / juku’a.", "Tiene diarrea / ty’e chivivi.", "Tiene el ombligo rojo o con pus / ipuru’a pytã, puru’a opu.", "Tiene secreción en los ojos / tesã rasy.", "Tiene la piel amarilla / tiricia, isa’yjupa ipire ."]
             }
         ],
         "important_content": []
