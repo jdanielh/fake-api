@@ -16,7 +16,12 @@
                 "content": ["elegí algún método de planificación familiar antes de iniciar las relaciones sexuales.", "podes retomar las relaciones cuando hayan desaparecido el sangrado y las molestias perineales"]
             }
         ],
-        "important_content": ["Debes volver al servicio de salud a los 8 días después de tu parto para control o ante cualquier signo de alarma"]
+        "subcontents_text": null,
+        "important_content": ["Debes volver al servicio de salud a los 8 días después de tu parto para control o ante cualquier signo de alarma"],
+        "important_content_with_image": {
+            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "url_image": "https://miro.medium.com/max/1000/0*s7of7kWnf9fDg4XM.jpeg"
+        }
     },
     {
         "title": "SIGNOS DE ALARMA DURANTE EL PUERPERIO ",
@@ -27,16 +32,17 @@
                 "content": ["cefalea: dolor de cabeza - akãrasy.", "epigastralgia: dolor en la zona del estómago - py’arasy.", "dolor en bajo vientre: dolor en la panza – ty’érasy.", "contracciones: endurecimiento del útero – hembepyatã.", "disuria: dolor al orinar – ty’asy.", "fiebre: akãnundu.", "visión borrosa: ndahechái porã, ahechavaipa.", "pérdida de sangre por vagina: tygýpa.", "disnea: dificultad para respirar - juku’a.", "mareo: akãnga’u.", "convulsiones: ataque - kuruchi.", "dificultades para amamantar: nokambúi porã.", "mastalgia: o dolor en mamas - pechoasy.", "dolor de pezones o grietas: titipuntajekapa.", "signos inflamatorios en mamas (mastitis) y pezones: dolor, calor, enrojecimiento e hinchazón.", "signos inflamatorios en las piernas: dolor, calor, enrojecimiento, hinchazón.", "signos inflamatorios en heridas: dolor, calor, enrojecimiento, hinchazón.", "loquios con mal olor: pérdidas por vagina después del parto con mal olor"]
             }
         ],
-        "important_content": []
+        "subcontents_text": null,
+        "important_content": [],
+        "important_content_with_image": {
+            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "url_image": "https://miro.medium.com/max/1000/0*s7of7kWnf9fDg4XM.jpeg"
+        }
     },
     {
         "title": "PREPARÁNDOME PARA AMAMANTAR",
         "content": "",
         "subcontents":[
-            {
-                "subtitle": "Técnicas de lactancia",
-                "content":["La leche materna es el alimento natural y suficiente para mi bebé. Se recomienda darle únicamente el pecho los primeros 6 meses de vida y a partir de ahí iniciar la alimentación complementaria, continuando con la lactancia materna hasta los 2 años o más. Es mi derecho pedir que pongan a mi bebé recién nacido sobre mi pecho, inmediatamente luego del parto para que pueda iniciar la lactancia ya en la primera hora y establecer así el vínculo necesario para que la lactancia continúe. "]
-            },
             {
                 "subtitle": "Beneficios de la leche materna",
                 "content":["Favorece el establecimiento de un vínculo muy especial entre la madre y su bebé.", "Ayuda a contraer el útero y previene las hemorragias.", "Tiene todos los nutrientes que necesita el bebé para crecer saludable, fuerte, seguro e inteligente.", "Se digiere fácilmente, por lo tanto tu bebé tiene menos riesgo de sufrir cólicos (dolor de panza) y estreñimiento.", "Disminuye el riesgo de enfermedades como diarrea, resfrío, neumonía, alergias y desnutrición.", "Es gratuita.", "Está siempre lista y disponible.", "No contamina el medio ambiente."]
@@ -47,20 +53,29 @@
             },
             {
 
-
                 "subtitle": "Algunas de las señales de que tú bebé tiene hambre son:",
                 "content": ["abre la boca, estira la lengua y/o gira la cabecita buscando el pecho.", "gime suavemente.", "chupa o succiona su manito, sábana u objetos que tocan su boca.", "aumentan los movimientos de sus ojos"]
-            },
-            {
-                "subtitle": "Agarre correcto",
-                "content": ["Para que tu bebé tenga un buen agarre, es recomendable que pases tu pezón por sus labios de arriba para estimular que abra la boca, cuando lo haya hecho, debes acercar tu pezón a la parte superior de su boca, de manera a que su labio de abajo y su mandíbula cubran la mayor parte de tu pecho."]
-            },
-            {
-                "subtitle": "Buena posición de la mama para dar el pecho:",
-                "content":["Durante las primeras semanas la posición correcta para dar el pecho favorece a que la lactancia se desarrolle, mantenga y se convierta en un momento de disfrute. Es importante que la cabeza, el cuello y la columna del bebé no estén torcidos. Su mentón debe estar hacia arriba, y no caído hacia el pecho. Asegúrate de estar vos también en una posición cómoda, podes usar unas almohadas para apoyar tu espalda, tus brazos o al bebé. Una posición correcta, mantiene tus pezones sanos y tu bebé se alimenta de manera más eficiente. La mejor preparación para la lactancia materna es la información. Aprendé tanto como puedas antes de que nazca tu bebé: preguntá acerca de las dudas que tengas sobre este tema en las visitas prenatales y hablá con otras mamás que dan el pecho."]
             }
         ],
-        "important_content":["El llanto puede ser una señal tardía de hambre"]
+        "subcontents_text": [
+            {
+                "subtitle_text": "Técnicas de lactancia",
+                "content_text": "La leche materna es el alimento natural y suficiente para mi bebé. Se recomienda darle únicamente el pecho los primeros 6 meses de vida y a partir de ahí iniciar la alimentación complementaria, continuando con la lactancia materna hasta los 2 años o más. Es mi derecho pedir que pongan a mi bebé recién nacido sobre mi pecho, inmediatamente luego del parto para que pueda iniciar la lactancia ya en la primera hora y establecer así el vínculo necesario para que la lactancia continúe. "
+            },
+            {
+                "subtitle_text": "Agarre correcto",
+                "content_text": "Para que tu bebé tenga un buen agarre, es recomendable que pases tu pezón por sus labios de arriba para estimular que abra la boca, cuando lo haya hecho, debes acercar tu pezón a la parte superior de su boca, de manera a que su labio de abajo y su mandíbula cubran la mayor parte de tu pecho."
+            },
+            {
+                "subtitle_text": "Buena posición de la mama para dar el pecho:",
+                "content_text": "Durante las primeras semanas la posición correcta para dar el pecho favorece a que la lactancia se desarrolle, mantenga y se convierta en un momento de disfrute. Es importante que la cabeza, el cuello y la columna del bebé no estén torcidos. Su mentón debe estar hacia arriba, y no caído hacia el pecho. Asegúrate de estar vos también en una posición cómoda, podes usar unas almohadas para apoyar tu espalda, tus brazos o al bebé. Una posición correcta, mantiene tus pezones sanos y tu bebé se alimenta de manera más eficiente. La mejor preparación para la lactancia materna es la información. Aprendé tanto como puedas antes de que nazca tu bebé: preguntá acerca de las dudas que tengas sobre este tema en las visitas prenatales y hablá con otras mamás que dan el pecho."
+            }
+        ],
+        "important_content":["El llanto puede ser una señal tardía de hambre"],
+        "important_content_with_image": {
+            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "url_image": "https://miro.medium.com/max/1000/0*s7of7kWnf9fDg4XM.jpeg"
+        }
     },
     {
         "title": "DATOS DE MI BEBÉ",
@@ -87,7 +102,12 @@
                 "content": ["Le visto siempre de acuerdo al clima, ropa liviana, preferentemente de algodón.", "Utilizo gorrita y medias para cubrirle la cabeza y los pies.", "La mejor manera de mantener la temperatura de mi bebé es colocarlos sobre mi pecho y en contacto con mi piel.", "Evito el contacto con personas enfermas y mantengo el ambiente limpio, ventilado y libre de polvo."]
             }
         ],
-        "important_content": []
+        "subcontents_text": null,
+        "important_content": [],
+        "important_content_with_image": {
+            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "url_image": "https://miro.medium.com/max/1000/0*s7of7kWnf9fDg4XM.jpeg"
+        }
     },
     {
         "title": "SIGNOS DE ALARMA DEL RECIÉN NACIDO",
@@ -98,24 +118,14 @@
                 "content": ["Tiene fiebre/akãnundu.", "Se pone frío/ ho’ysamba.", "No puede mamar / nokambúi.", "Vomita todo lo que toma / py’ájere, ombogue’ẽ opa ho’úva.", "Respira con dificultad / juku’a.", "Tiene diarrea / ty’e chivivi.", "Tiene el ombligo rojo o con pus / ipuru’a pytã, puru’a opu.", "Tiene secreción en los ojos / tesã rasy.", "Tiene la piel amarilla / tiricia, isa’yjupa ipire ."]
             }
         ],
-        "important_content": []
+        "subcontents_text": null,
+        "important_content": [],
+        "important_content_with_image": null
     },
     {
         "title": "PLANIFICACIÓN FAMILIAR",
         "content": "",
         "subcontents":[
-            {
-                "subtitle": "¿Debemos utilizar algún método anticonceptivo después del parto?",
-                "content": ["A pesar de que muchas veces se tenga el deseo de tener otro hijo o hija de manera seguida, se recomienda espaciar los embarazos con un intervalo de dos años entre uno y otro nacimiento. Durante este periodo se sugiere utilizar el método anticonceptivo de tu elección para planificar otro embarazo."]
-            },
-            {
-                "subtitle": "¿Cuándo podemos volver a mantener relaciones sexuales?", 
-                "content": ["Cada pareja debe decidir el momento más adecuado para hacerlo, en general tiene que ver con el estado de ánimo y el bienestar físico de la mujer después del parto. Es importante que la decisión de volver a tener relaciones sexuales se dé en un entorno de respeto mutuo y de diálogo con la pareja. Los primeros días del posparto es mejor evitar la penetración, de lo contrario se recomienda utilizar el preservativo para evitar una infección."]
-            },
-            {
-                "subtitle": "¿Cuál es el mejor método anticonceptivo?",
-                "content": ["No existe un método ideal, todos tienen sus ventajas, pero también algunos inconvenientes. El método a elegir debe ser de acuerdo a las preferencias y necesidades de cada persona, por lo tanto es importante estar bien informado para tomar la mejor decisión. "]
-            },
             {
                 "subtitle": "Métodos basados en conocimiento de la fertilidad",
                 "content": ["Interrupción del coito (termina afuera) o método de Onán es muy poco eficaz, ya que, a pesar de no eyacular en la vagina, en los momentos previos el pene segrega un líquido que contiene espermatozoides, que pueden quedar en la vagina y ser suficientes para producir un embarazo. ", "El método del ritmo menstrual, el de la temperatura basal, el sintotérmico y el del moco cervical, son naturales. En qué consisten, la manera de utilizarlos y los puntos a tener en cuenta te lo deben explicar en los servicios de planificación familiar.", "El método de la lactancia materna y amenorrea (MELA) es un método natural, puede ofrecer una cierta protección anticonceptiva, pero tiene un riesgo de error y no ofrece una total garantía. Para que pueda servir como método se deben cumplir estas condiciones: lactancia materna exclusiva y amenorrea (ausencia de menstruaciones) hasta los 6 meses después del parto. Posterior a este tiempo no se puede garantizar este método. "]
@@ -133,7 +143,25 @@
                 "content": ["Sí, siempre que ocurra una relación sexual no protegida o sin garantías de protección es recomendable utilizar la anticoncepción hormonal de emergencia a fin de evitar un embarazo no planificado.", "Es un tratamiento con progesterona, que tiene que tomarse tan pronto como sea posible y hasta 5 días después de la relación sin protección. Se puede retirar se los servicios de salud de manera gratuita a cualquier hora que sea requerido", "Este tratamiento se puede realizar también durante la lactancia y prácticamente no tiene efectos secundarios. Se debe recordar que es un método de emergencia, no es un método de uso rutinario.", "Recuerda que puedes pedir más información sobre planificación familiar posparto en todos los servicios de salud."]
             }
         ],
-        "important_content":[]
+        "subcontents_text": [
+            {
+                "subtitle_text": "¿Debemos utilizar algún método anticonceptivo después del parto?",
+                "content_text"  : "A pesar de que muchas veces se tenga el deseo de tener otro hijo o hija de manera seguida, se recomienda espaciar los embarazos con un intervalo de dos años entre uno y otro nacimiento. Durante este periodo se sugiere utilizar el método anticonceptivo de tu elección para planificar otro embarazo."
+            },
+            {
+                "subtitle_text": "¿Cuándo podemos volver a mantener relaciones sexuales?",
+                "content_text": "Cada pareja debe decidir el momento más adecuado para hacerlo, en general tiene que ver con el estado de ánimo y el bienestar físico de la mujer después del parto. Es importante que la decisión de volver a tener relaciones sexuales se dé en un entorno de respeto mutuo y de diálogo con la pareja. Los primeros días del posparto es mejor evitar la penetración, de lo contrario se recomienda utilizar el preservativo para evitar una infección."
+            },
+            {
+                "subtitle_text": "¿Cuál es el mejor método anticonceptivo?",
+                "content_text": "No existe un método ideal, todos tienen sus ventajas, pero también algunos inconvenientes. El método a elegir debe ser de acuerdo a las preferencias y necesidades de cada persona, por lo tanto es importante estar bien informado para tomar la mejor decisión. "
+            }
+        ],
+        "important_content":[],
+        "important_content_with_image": {
+            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "url_image": "https://miro.medium.com/max/1000/0*s7of7kWnf9fDg4XM.jpeg"
+        }
     }
 
   
