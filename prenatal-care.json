@@ -1,0 +1,38 @@
+[
+    {
+        "title": "PREPARÁNDOME PARA AMAMANTAR",
+        "content": "El puerperio es el periodo comprendido inmediatamente después del parto hasta los 42 días. Durante este periodo se produce una gran cantidad de secreción constituida por sangre y restos epiteliales sin mal olor denominado Loquios, que progresivamente va disminuyendo. Pasando unos días, su color cambia volviéndose café claro. En la segunda semana presenta un aspecto blanco- amarillento y se da en mucha menor cantidad. Los loquios pueden durar hasta 51 días después del parto. Es importante saber que en los primeros días después del parto los pechos se cargan, se sienten tensos o hinchados y produce el calostro en pequeñas cantidades. A partir del 4° o 5° día se produce la bajada de la leche.",
+        "subcontents": [
+            {
+                "type": "landscape_image",
+                "image_url": "https://itcraftapps.com/wp-content/uploads/2019/03/Flutter-Cover.png"
+            },
+            {
+                "type": "title",
+                "text":"PREPARÁNDOME PARA AMAMANTAR"
+            },
+            {
+                "type": "subtitle",
+                "text": "Beneficios de la leche materna"
+            },
+            {
+                "type": "content_list",
+                "items": ["Favorece el establecimiento de un vínculo muy especial entre la madre y su bebé.", "Ayuda a contraer el útero y previene las hemorragias.", "Tiene todos los nutrientes que necesita el bebé para crecer saludable, fuerte, seguro e inteligente.", "Se digiere fácilmente, por lo tanto tu bebé tiene menos riesgo de sufrir cólicos (dolor de panza) y estreñimiento.", "Disminuye el riesgo de enfermedades como diarrea, resfrío, neumonía, alergias y desnutrición.", "Es gratuita.", "Está siempre lista y disponible.", "No contamina el medio ambiente."]
+            },
+            {
+                "type": "image_only",
+                "image_url": "https://itcraftapps.com/wp-content/uploads/2019/03/Flutter-Cover.png" 
+            },
+            
+            {
+                "type": "subtitle",
+                "text": "Técnicas de lactancia"
+            },
+            {
+                "type": "content_text",
+                "text": "La leche materna es el alimento natural y suficiente para mi bebé. Se recomienda darle únicamente el pecho los primeros 6 meses de vida y a partir de ahí iniciar la alimentación complementaria, continuando con la lactancia materna hasta los 2 años o más. Es mi derecho pedir que pongan a mi bebé recién nacido sobre mi pecho, inmediatamente luego del parto para que pueda iniciar la lactancia ya en la primera hora y establecer así el vínculo necesario para que la lactancia continúe. "
+            }
+           
+        ]
+    }
+]
