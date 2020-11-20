@@ -31,6 +31,32 @@
             {
                 "type": "content_text",
                 "text": "La leche materna es el alimento natural y suficiente para mi bebé. Se recomienda darle únicamente el pecho los primeros 6 meses de vida y a partir de ahí iniciar la alimentación complementaria, continuando con la lactancia materna hasta los 2 años o más. Es mi derecho pedir que pongan a mi bebé recién nacido sobre mi pecho, inmediatamente luego del parto para que pueda iniciar la lactancia ya en la primera hora y establecer así el vínculo necesario para que la lactancia continúe. "
+            },
+            {
+                "type": "image_with_text",
+                "image_url": "https://itcraftapps.com/wp-content/uploads/2019/03/Flutter-Cover.png",
+                "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+            },
+            {
+                "type": "subtitle",
+                "text": "Algun subtitulo"
+            },
+            {
+                "type": "images_carousel_and_text",
+                "text": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+                "images": ["https://png.pngtree.com/thumb_back/fh260/background/20190827/pngtree-random-energy-wave-background-image_307670.jpg", "https://www.mandysam.com/img/random.jpg", "https://gaminglabs.com/wp-content/uploads/2019/07/GLI-RNG-Random-Number-Generator-Services.jpg", "https://png.pngtree.com/thumb_back/fh260/background/20200425/pngtree-abstract-random-color-paper-cut-slime-background-image_334596.jpg"]
+            }, 
+            {
+                "type": "content_text",
+                "text": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable."
+            },
+            {
+                "type": "important_content", 
+                "text": "All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc."
+            },
+            {
+                "type": "content_text",
+                "text": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable."
             }
            
         ]
