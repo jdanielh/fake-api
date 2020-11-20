@@ -1,0 +1,463 @@
+[
+    {
+        "title": "CUIDADOS DURANTE EL POSPARTO O PUERPERIO",
+        "subcontents": [
+            {
+                "type": "landscape_image",
+                "image_url": "https://itcraftapps.com/wp-content/uploads/2019/03/Flutter-Cover.png"
+            },
+            {
+                "type": "title",
+                "text":"CUIDADOS DURANTE EL POSPARTO O PUERPERIO"
+            },
+            {
+                "type": "title",
+                "text": "El puerperio es el periodo comprendido inmediatamente después del parto hasta los 42 días"
+            },
+            {
+                "type": "content_text",
+                "text": "Durante este periodo se produce una gran cantidad de secreción constituida por sangre y restos epiteliales sin mal olor denominado Loquios, que progresivamente va disminuyendo. Pasando unos días, su color cambia volviéndose café claro. En la segunda semana presenta un aspecto blanco- amarillento y se da en mucha menor cantidad. Los loquios pueden durar hasta 51 días después del parto."
+            },
+            {
+                "type": "image_only",
+                "image_url": "https://itcraftapps.com/wp-content/uploads/2019/03/Flutter-Cover.png" 
+            },
+            {
+                "type":"content_text",
+                "text": "Es importante saber que en los primeros días después del parto los pechos se cargan, se sienten tensos o hinchados y produce el calostro en pequeñas cantidades."
+            },
+            {
+                "type": "subtitle",
+                "text": "A partir del 4° o 5° día se produce la bajada de la leche."
+            },
+            {
+                "type":"title",
+                "text": "Recomendaciones"
+            }, 
+            {
+                "type":"subtitle",
+                "text": "Higiene personal:"
+            },
+            {
+                "type":"images_carousel_and_list",
+                "items": ["baño diario.", "lavado externo con agua y jabón de los genitales como mínimo dos veces al día, no realizar lavados ni duchas vaginales.", "cambiar las toallas higiénicas varias veces al día. Lo ideal es hacerlo cada 3 horas.", "en caso de haber recibido sutura, mantener la herida limpia y seca.", "es recomendable lavarse el cabello en forma regular."],
+                "images": ["https://png.pngtree.com/thumb_back/fh260/background/20190827/pngtree-random-energy-wave-background-image_307670.jpg", "https://www.mandysam.com/img/random.jpg", "https://gaminglabs.com/wp-content/uploads/2019/07/GLI-RNG-Random-Number-Generator-Services.jpg", "https://png.pngtree.com/thumb_back/fh260/background/20200425/pngtree-abstract-random-color-paper-cut-slime-background-image_334596.jpg"]
+            },
+            {
+                "type":"subtitle",
+                "text": "Alimentación"
+            },
+            {
+                "type": "content_text",
+                "text":"seguir las recomendaciones descritas anteriormente sobre alimentación"
+            },
+            {
+                "type": "important_content",
+                "text": "Debes volver al servicio de salud a los 8 días después de tu parto para control o ante cualquier signo de alarma."
+            },
+            {
+                "type":"subtitle",
+                "text": "Relaciones sexuales:"
+            },
+            {
+                "type": "content_list",
+                "items": [
+                    "elegí algún método de planificación familiar antes de iniciar las relaciones sexuales",
+                    "podes retomar las relaciones cuando hayan desaparecido el sangrado y las molestias perineales"
+                ]
+            }
+
+        ]
+    },
+    {
+        "title": "SIGNOS DE ALARMA DURANTE EL PUERPERIO",
+        "subcontents":[
+                {
+                    "type": "landscape_image",
+                    "image_url": "https://itcraftapps.com/wp-content/uploads/2019/03/Flutter-Cover.png"
+                },
+                {
+                    "type": "title",
+                    "text":"SIGNOS DE ALARMA DURANTE EL PUERPERIO"
+                },
+                {
+                    "type":"content_list",
+                    "items":[
+                        "cefalea: dolor de cabeza - akãrasy.", "epigastralgia: dolor en la zona del estómago - py’arasy.", "dolor en bajo vientre: dolor en la panza – ty’érasy.", "contracciones: endurecimiento del útero – hembepyatã.", "disuria: dolor al orinar – ty’asy.", "fiebre: akãnundu."
+                    ]
+                },
+                {
+                    "type": "image_only",
+                    "image_url": "https://itcraftapps.com/wp-content/uploads/2019/03/Flutter-Cover.png" 
+                },
+                {
+                    "type":"images_carousel_and_list",
+                    "items":[
+                        "visión borrosa: ndahechái porã, ahechavaipa.", "pérdida de sangre por vagina: tygýpa.", "disnea: dificultad para respirar - juku’a.", "mareo: akãnga’u.", "convulsiones: ataque - kuruchi.", "dificultades para amamantar: nokambúi porã."
+                    ],
+                    "images": ["https://png.pngtree.com/thumb_back/fh260/background/20190827/pngtree-random-energy-wave-background-image_307670.jpg", "https://www.mandysam.com/img/random.jpg", "https://gaminglabs.com/wp-content/uploads/2019/07/GLI-RNG-Random-Number-Generator-Services.jpg", "https://png.pngtree.com/thumb_back/fh260/background/20200425/pngtree-abstract-random-color-paper-cut-slime-background-image_334596.jpg"]
+                },
+                {
+                    "type":"content_list",
+                    "items":[
+                        "mastalgia: o dolor en mamas - pechoasy.", "dolor de pezones o grietas: titipuntajekapa.", "signos inflamatorios en mamas (mastitis) y pezones: dolor, calor, enrojecimiento e hinchazón.", "signos inflamatorios en las piernas: dolor, calor, enrojecimiento, hinchazón.", "signos inflamatorios en heridas: dolor, calor, enrojecimiento, hinchazón.", "loquios con mal olor: pérdidas por vagina después del parto con mal olor"
+                    ]
+                }
+        ]
+    },
+    {
+        "title": "PREPARÁNDOME PARA AMAMANTAR",
+        "subcontents":[
+            {
+                "type": "landscape_image",
+                "image_url": "https://itcraftapps.com/wp-content/uploads/2019/03/Flutter-Cover.png"
+            },
+            {
+                "type": "title",
+                "text":"PREPARÁNDOME PARA AMAMANTAR"
+            },
+            {
+                "type":"subtitle",
+                "text": "Técnicas de lactancia"
+            },
+            {
+                "type":"content_text",
+                "text": "La leche materna es el alimento natural y suficiente para mi bebé. Se recomienda darle únicamente el pecho los primeros 6 meses de vida y a partir de ahí iniciar la alimentación complementaria, continuando con la lactancia materna hasta los 2 años o más"
+            },
+            {
+                "type": "image_only",
+                "image_url": "https://itcraftapps.com/wp-content/uploads/2019/03/Flutter-Cover.png" 
+            },
+            {
+                "type":"content_text",
+                "text": "Es mi derecho pedir que pongan a mi bebé recién nacido sobre mi pecho, inmediatamente luego del parto para que pueda iniciar la lactancia ya en la primera hora y establecer así el vínculo necesario para que la lactancia continúe."
+            },
+            {
+                "type":"subtitle",
+                "text": "Beneficios de la leche materna"
+            }, 
+            {
+                "type":"images_carousel_and_list",
+                "items":[
+                    "Favorece el establecimiento de un vínculo muy especial entre la madre y su bebé.", "Ayuda a contraer el útero y previene las hemorragias.", "Tiene todos los nutrientes que necesita el bebé para crecer saludable, fuerte, seguro e inteligente.", "Se digiere fácilmente, por lo tanto tu bebé tiene menos riesgo de sufrir cólicos (dolor de panza) y estreñimiento.", "Disminuye el riesgo de enfermedades como diarrea, resfrío, neumonía, alergias y desnutrición.", "Es gratuita.", "Está siempre lista y disponible.", "No contamina el medio ambiente."
+                ],
+                "images": ["https://png.pngtree.com/thumb_back/fh260/background/20190827/pngtree-random-energy-wave-background-image_307670.jpg", "https://www.mandysam.com/img/random.jpg", "https://gaminglabs.com/wp-content/uploads/2019/07/GLI-RNG-Random-Number-Generator-Services.jpg", "https://png.pngtree.com/thumb_back/fh260/background/20200425/pngtree-abstract-random-color-paper-cut-slime-background-image_334596.jpg"]
+            },
+            {
+                "type":"subtitle",
+                "text": "Riesgos de no amamantar"
+            },
+            {
+                "type":"content_list",
+                "items":[
+                    "Incremento de gastos familiares por la compra de leche de fórmula, biberones, insumos y energía.", "Mayor necesidad de tiempo, dinero y preocupaciones para la familia por los problemas de salud que tienden a aparecer.", "Aumenta el riesgo de que los bebés contraigan enfermedades graves (diarreas, enfermedades respiratorias y de oído).", "Más posibilidad de que los bebés tengan un crecimiento deficiente o contraigan enfermedades.", "Tu bebé no necesita agua, té, jugos, ni ningún tipo de bebidas salvo la leche materna."
+                ]
+            },
+            {
+                "type":"important_content",
+                "text": "El llanto puede ser una señal tardía de hambre"
+            },
+            {
+                "type":"content_list",
+                "items":["abre la boca, estira la lengua y/o gira la cabecita buscando el pecho.", "gime suavemente.", "chupa o succiona su manito, sábana u objetos que tocan su boca.", "aumentan los movimientos de sus ojos"]
+            },
+            {
+                "type":"subtitle",
+                "text": "Agarre correcto"
+            },
+            {
+                "type":"content_text",
+                "text":"Para que tu bebé tenga un buen agarre, es recomendable que pases tu pezón por sus labios de arriba para estimular que abra la boca, cuando lo haya hecho, debes acercar tu pezón a la parte superior de su boca, de manera a que su labio de abajo y su mandíbula cubran la mayor parte de tu pecho."
+            },
+            {
+                "type":"subtitle",
+                "text": "Buena posición de la mama para dar el pecho:"
+            },
+            {
+                "type":"content_text",
+                "text":"Durante las primeras semanas la posición correcta para dar el pecho favorece a que la lactancia se desarrolle, mantenga y se convierta en un momento de disfrute. Es importante que la cabeza, el cuello y la columna del bebé no estén torcidos. Su mentón debe estar hacia arriba, y no caído hacia el pecho. Asegúrate de estar vos también en una posición cómoda, podes usar unas almohadas para apoyar tu espalda, tus brazos o al bebé."
+            },
+            {
+                "type":"subtitle",
+                "text": "Una posición correcta, mantiene tus pezones sanos y tu bebé se alimenta de manera más eficiente."
+            },
+            {
+                "type":"important_content",
+                "text": "Las mujeres están preparadas para dar de mamar a sus bebés y pueden amamantar exitosamente."
+            },
+            {
+                "type":"content_text",
+                "text": "La mejor preparación para la lactancia materna es la información. Aprendé tanto como puedas antes de que nazca tu bebé: preguntá acerca de las dudas que tengas sobre este tema en las visitas prenatales y hablá con otras mamás que dan el pecho."
+            }
+
+        ]
+    },
+    {
+        "title": "DATOS DE MI BEBÉ",
+        "subcontents":[
+            {
+                "type": "landscape_image",
+                "image_url": "https://itcraftapps.com/wp-content/uploads/2019/03/Flutter-Cover.png"
+            },
+            {
+                "type": "title",
+                "text":"DATOS DE MI BEBÉ"
+            },
+            {
+                "type": "subtitle",
+                "text": "Cómo cuidar al bebé en el primer mes de vida"
+            },
+            {
+                "type": "subtitle",
+                "text": "Recomendaciones para la mamá, el papá y la familia:"
+            },
+            {
+                "type": "subtitle",
+                "text": "Antes del alta es importante verificar que"
+            },
+            {
+                "type":"content_list",
+                "items":[
+                    "La libreta de salud de tu bebé esté completa.", "Le hayan aplicado la vacuna BCG.", "Les hayan entregado el certificado de nacido vivo.", "Le hayan realizado el test del piecito o citado para la realización del mismo (entre las 48 horas y los 7 días de nacido), además de explicarles cuándo y dónde retirar el resultado"
+                ]
+            },
+            {
+                "type": "image_only",
+                "image_url": "https://itcraftapps.com/wp-content/uploads/2019/03/Flutter-Cover.png" 
+            },
+            {
+                "type":"subtitle",
+                "text": "En el hogar"
+            },
+            {
+                "type":"content_list",
+                "items":[
+                    "Lavarnos siempre las manos con agua y jabón antes de tocar al bebé.", "Acostarle boca arriba o de costado. Para que respire mejor, no cubrirle la cara.", "Darle el pecho a libre demanda, es decir cada vez que pida, sea de día o de noche."
+                ]
+            },
+            {
+                "type":"subtitle",
+                "text": "Para cuidar el cordón umbilical y la higiene del bebé recuerda"
+            },
+            {
+                "type":"images_carousel_and_list",
+                "items":[
+                    "No es necesario bañarle todos los días, así se preserva la grasa natural que protege la piel del bebé.", "Mantener siempre limpia la zona del pañal para evitar la aparición de irritaciones.", "Cada vez que le cambien el pañal, se debe limpiar la zona con agua, cremas o aceite vegetal.", "Para cuidar el ombligo hay que dejarlo libre, y no cubrirlo con gasas, pañal u ombligueros, de esta manera se seca más rápido. No usar alcohol ni polvos."
+                ],
+                "images": ["https://gaminglabs.com/wp-content/uploads/2019/07/GLI-RNG-Random-Number-Generator-Services.jpg", "https://png.pngtree.com/thumb_back/fh260/background/20200425/pngtree-abstract-random-color-paper-cut-slime-background-image_334596.jpg"]
+            },
+            {
+                "type":"subtitle",
+                "text": "Mi bebé aprende a través de sus 5 sentidos. Es importante que lo estimulemos desde que nace, en este sentido es importante que tanto la madre como los integrantes de su entorno puedan: "
+            },
+            {
+                "type":"content_list",
+                "items":[
+                    "Mirarle a los ojos, acariciarle y hablarle cariñosamente sobre todo al darle el pecho materno.", "Llamarle por su nombre.", "Colgar objetos de colores (pelotitas, juguetitos, globos) donde el bebé pueda ver.", "Hacerle escuchar música suave.", "Evitar ponerle frente al televisor o a la pantalla del celular hasta después de los dos años."
+                ]
+            },
+            {
+                "type":"subtitle",
+                "text": "Para que mí bebé tenga un ambiente y vestimenta adecuados:"
+            },
+            {
+                "type":"content_list",
+                "items":[
+                    "Le visto siempre de acuerdo al clima, ropa liviana, preferentemente de algodón.", "Utilizo gorrita y medias para cubrirle la cabeza y los pies.", "La mejor manera de mantener la temperatura de mi bebé es colocarlos sobre mi pecho y en contacto con mi piel.", "Evito el contacto con personas enfermas y mantengo el ambiente limpio, ventilado y libre de polvo."
+                ]
+            }
+        ]
+    },
+    {
+        "title": "SIGNOS DE ALARMA DEL RECIÉN NACIDO",
+        "subcontents":[
+            {
+                "type": "landscape_image",
+                "image_url": "https://itcraftapps.com/wp-content/uploads/2019/03/Flutter-Cover.png"
+            },
+            {
+                "type": "title",
+                "text":"SIGNOS DE ALARMA DEL RECIÉN NACIDO"
+            },
+            {
+                "type":"subtitle",
+                "text": "Acudo inmediatamente al establecimiento de salud más cercano si mi bebé presenta alguno de las siguientes señales de peligro:"
+            },
+            {
+                "type": "content_list",
+                "items":[
+                    "Tiene fiebre/akãnundu.", "Se pone frío/ ho’ysamba.", "No puede mamar / nokambúi.", "Vomita todo lo que toma / py’ájere, ombogue’ẽ opa ho’úva."
+                ]
+            },
+            {
+                "type": "image_only",
+                "image_url": "https://itcraftapps.com/wp-content/uploads/2019/03/Flutter-Cover.png" 
+            },
+            {
+                "type":"content_list",
+                "items":[
+                    "Respira con dificultad / juku’a.", "Tiene diarrea / ty’e chivivi.", "Tiene el ombligo rojo o con pus / ipuru’a pytã, puru’a opu.", "Tiene secreción en los ojos / tesã rasy.", "Tiene la piel amarilla / tiricia, isa’yjupa ipire ."
+                ]
+            },
+            {
+                "type": "multiple_images",
+                "images": ["https://png.pngtree.com/thumb_back/fh260/background/20190827/pngtree-random-energy-wave-background-image_307670.jpg", "https://www.mandysam.com/img/random.jpg", "https://gaminglabs.com/wp-content/uploads/2019/07/GLI-RNG-Random-Number-Generator-Services.jpg", "https://png.pngtree.com/thumb_back/fh260/background/20200425/pngtree-abstract-random-color-paper-cut-slime-background-image_334596.jpg"]
+            }
+        ]
+    },
+    {
+        "title": "PLANIFICACIÓN FAMILIAR",
+        "subcontents":[
+            {
+                "type": "landscape_image",
+                "image_url": "https://itcraftapps.com/wp-content/uploads/2019/03/Flutter-Cover.png"
+            },
+            {
+                "type": "title",
+                "text":"PLANIFICACIÓN FAMILIAR"
+            },
+            {
+                "type":"subtitle",
+                "text": "¿Debemos utilizar algún método anticonceptivo después del parto?"
+            },
+            {
+                "type":"content_text",
+                "text": "A pesar de que muchas veces se tenga el deseo de tener otro hijo o hija de manera seguida, se recomienda espaciar los embarazos con un intervalo de dos años entre uno y otro nacimiento. Durante este periodo se sugiere utilizar el método anticonceptivo de tu elección para planificar otro embarazo."
+            },
+            {
+                "type": "image_only",
+                "image_url": "https://itcraftapps.com/wp-content/uploads/2019/03/Flutter-Cover.png" 
+            },
+            {
+                "type":"subtitle",
+                "text": "¿Cuándo podemos volver a mantener relaciones sexuales?"
+            },
+            {
+                "type":"content_text",
+                "text": "Cada pareja debe decidir el momento más adecuado para hacerlo, en general tiene que ver con el estado de ánimo y el bienestar físico de la mujer después del parto. Es importante que la decisión de volver a tener relaciones sexuales se dé en un entorno de respeto mutuo y de diálogo con la pareja. Los primeros días del posparto es mejor evitar la penetración, de lo contrario se recomienda utilizar el preservativo para evitar una infección."
+            },
+            {
+                "type":"subtitle",
+                "text": "¿Cuál es el mejor método anticonceptivo?"
+            }, 
+            {
+                
+                "type": "images_carousel_and_text",
+                "text": "No existe un método ideal, todos tienen sus ventajas, pero también algunos inconvenientes. El método a elegir debe ser de acuerdo a las preferencias y necesidades de cada persona, por lo tanto es importante estar bien informado para tomar la mejor decisión. ",
+                "images": ["https://png.pngtree.com/thumb_back/fh260/background/20190827/pngtree-random-energy-wave-background-image_307670.jpg", "https://www.mandysam.com/img/random.jpg", "https://gaminglabs.com/wp-content/uploads/2019/07/GLI-RNG-Random-Number-Generator-Services.jpg", "https://png.pngtree.com/thumb_back/fh260/background/20200425/pngtree-abstract-random-color-paper-cut-slime-background-image_334596.jpg"]
+                
+            },
+            {
+                "type":"subtitle",
+                "text":"Entre las opciones podemos citar:"
+            },
+            {
+                "type":"subtitle",
+                "text":"Métodos basados en conocimiento de la fertilidad"
+            },
+            {
+                "type":"content_list",
+                "items":[
+                    "Interrupción del coito (termina afuera) o método de Onán es muy poco eficaz, ya que, a pesar de no eyacular en la vagina, en los momentos previos el pene segrega un líquido que contiene espermatozoides, que pueden quedar en la vagina y ser suficientes para producir un embarazo. ", "El método del ritmo menstrual, el de la temperatura basal, el sintotérmico y el del moco cervical, son naturales. En qué consisten, la manera de utilizarlos y los puntos a tener en cuenta te lo deben explicar en los servicios de planificación familiar.", "El método de la lactancia materna y amenorrea (MELA) es un método natural, puede ofrecer una cierta protección anticonceptiva, pero tiene un riesgo de error y no ofrece una total garantía. Para que pueda servir como método se deben cumplir estas condiciones: lactancia materna exclusiva y amenorrea (ausencia de menstruaciones) hasta los 6 meses después del parto. Posterior a este tiempo no se puede garantizar este método. "
+                ]
+            },
+            {
+                "type":"subtitle",
+                "text":"Métodos anticonceptivos modernos"
+            },
+            {
+                "type":"content_list",
+                "items":[
+                    "El anticonceptivo inyectable que tiene solo progestágeno se puede iniciar aproximadamente un mes después del parto si no hay contraindicaciones. Tienen la ventaja de que se inyecta cada 3 meses, y lo podés utilizar el tiempo que quieras. Podría producir alguna irregularidad en la menstruación.", "El Implante subdérmico es un dispositivo de plástico, pequeño, que tiene progesterona y puede ser aplicado inmediatamente después del parto. Se coloca en el brazo, dura hasta 3 años y se puede retirar en el servicio cuando lo decidas. Es muy efectivo. Puede utilizarse en el periodo de lactancia. Podría producir alguna irregularidad en la menstruación.", "Los anticonceptivos orales de progesterona son comprimidos que se utilizan después del parto. Se toman todos los días, preferentemente a la misma hora, sin interrupción, por el tiempo que quieras. Podría producir alguna irregularidad en la menstruación. ", "Los anticonceptivos orales combinados de progesterona y estrógeno no están indicados para las mujeres que amamantan.", "El dispositivo intrauterino (DIU) de cobre puede ser aplicado justo después del parto. Se coloca dentro del útero, dura hasta 10 años y te lo retiras en el servicio cuando lo decidas. Es muy efectivo. Puede utilizarse en el periodo de lactancia.", "Los preservativos masculinos y los femeninos son buenos métodos anticonceptivos, sobre todo durante el periodo inmediato del posparto y de la lactancia. Protegen de las infecciones de transmisión sexual. Los preservativos masculinos los puedes retirar de los dispensadores de los servicios también. ", "Los espermicidas, en cremas o bien en óvulos, tienen una eficacia baja, ofrecen poca protección para evitar un embarazo, pero pueden ser un complemento a otros métodos. "
+                ]
+            },
+            {
+                "type":"multiple_images",
+                "images": ["https://png.pngtree.com/thumb_back/fh260/background/20190827/pngtree-random-energy-wave-background-image_307670.jpg", "https://www.mandysam.com/img/random.jpg", "https://gaminglabs.com/wp-content/uploads/2019/07/GLI-RNG-Random-Number-Generator-Services.jpg", "https://png.pngtree.com/thumb_back/fh260/background/20200425/pngtree-abstract-random-color-paper-cut-slime-background-image_334596.jpg"]
+            },
+            {
+                "type":"subtitle",
+                "text":"Anticoncepción definitiva o permanente"
+            },
+            {
+                "type":"content_list",
+                "items":[
+                    "Algunas parejas, ya durante el embarazo o bien después del nacimiento, consideran finalizado su proyecto reproductivo, es decir, no quieren tener más hijos, según las circunstancias en las que se encuentren. ", "En estos casos se puede acceder a métodos anticonceptivos definitivos, para la mujer (esterilización tubárica o ligadura) o para el hombre (vasectomía). Antes de realizarse este tipo de método es importante estar seguros de la decisión, teniendo en cuenta que ellos son definitivos e irreversibles."
+                ]
+            },
+            {
+                "type":"subtitle",
+                "text":"¿Se puede utilizar la anticoncepción de emergencia?"
+            },
+            {
+                "type":"content_list",
+                "items":[
+                    "Sí, siempre que ocurra una relación sexual no protegida o sin garantías de protección es recomendable utilizar la anticoncepción hormonal de emergencia a fin de evitar un embarazo no planificado.", "Es un tratamiento con progesterona, que tiene que tomarse tan pronto como sea posible y hasta 5 días después de la relación sin protección. Se puede retirar se los servicios de salud de manera gratuita a cualquier hora que sea requerido", "Este tratamiento se puede realizar también durante la lactancia y prácticamente no tiene efectos secundarios. Se debe recordar que es un método de emergencia, no es un método de uso rutinario.", "Recuerda que puedes pedir más información sobre planificación familiar posparto en todos los servicios de salud."
+                ]
+            }
+        ]
+    },
+    {
+        "title": "EJERCICIOS DURANTE EL EMBARAZO Y EL PUERPERIO",
+        "subcontents": [
+            {
+                "type": "landscape_image",
+                "image_url": "https://itcraftapps.com/wp-content/uploads/2019/03/Flutter-Cover.png"
+            },
+            {
+                "type": "title",
+                "text":"EJERCICIOS DURANTE EL EMBARAZO Y EL PUERPERIO"
+            },
+            {
+                "type": "content_text",
+                "text": "Realizar ejercicios es una práctica saludable y beneficiosa, y es recomendada para prevenir el sobrepeso. Ayudan a que te sientas bien, a que duermas mejor y aumentan tu energía preparándote para el momento de tu parto"
+            },
+            {
+                "type": "image_only",
+                "image_url": "https://itcraftapps.com/wp-content/uploads/2019/03/Flutter-Cover.png" 
+            },
+            {
+                "type":"content_text",
+                "text": "Se aconseja caminar todos los días durante 20 a 30 minutos salvo que tu doctor te indique reposo. Es conveniente que evites las actividades que puedan provocarte golpes o caídas. Podés realizar los siguientes ejercicios durante tu embarazo siempre y cuando no sientas molestias. Es importante que si te mareás, sentís dolor o nauseas, los dejes de hacer inmediatamente, y ante cualquier duda consultes con tu médico."
+            },
+            {
+                "type":"subtitle",
+                "text": "Fortalecimiento de los músculos entre las piernas (perineo):"
+            },
+            {
+                "type":"images_carousel_and_text",
+                "text": "los podés hacer parada o acostada, apretando los músculos ubicados entre las piernas como si estuvieras tratando de atajar la orina. Mantener esta posición unos segundos respirando normalmente. Luego relajarse y repetir el ejercicio varias veces al día. ",
+                "images": ["https://png.pngtree.com/thumb_back/fh260/background/20190827/pngtree-random-energy-wave-background-image_307670.jpg", "https://www.mandysam.com/img/random.jpg", "https://gaminglabs.com/wp-content/uploads/2019/07/GLI-RNG-Random-Number-Generator-Services.jpg", "https://png.pngtree.com/thumb_back/fh260/background/20200425/pngtree-abstract-random-color-paper-cut-slime-background-image_334596.jpg"]
+            },
+            {
+                "type":"subtitle",
+                "text": "Elevación de la pelvis:"
+            },
+            {
+                "type":"content_text",
+                "text": "acostada de espaldas sobre el piso con los brazos extendidos a los lados y las piernas dobladas, apretar y subir las nalgas. Mantener esta posición unos segundos y luego volver a bajar lentamente la espalda."
+            },
+            {
+                "type":"subtitle",
+                "text": "Giro de columna:"
+            },
+            {
+                "type":"images_carousel_and_text",
+                "text": "acostada de espaldas sobre el piso con los brazos extendidos a los lados, juntar y doblar las piernas manteniendo los hombros pegados al piso. Girar las piernas hacia un lado y la cabeza lentamente hacia el otro. Repetir la secuencia hacia ambos lados."
+            },
+            {
+                "type": "subtitle",
+                "text": "Relajación de la espalda:"
+            },
+            {
+                "type": "content_text",
+                "text": "tendida de espaldas sobre el piso con la columna bien apoyada, levantar y llevar ambas rodillas hacia el pecho. Mantener esta posición por unos segundos y luego bajarlas lentamente."
+            },
+            {
+                "type":"important_content",
+                "text": "Es fundamental que tengas la aprobación de tu médico antes de empezar a realizar cualquier tipo de ejercicio."
+            }
+
+        ]
+    }
+]
