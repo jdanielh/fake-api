@@ -1,0 +1,73 @@
+[
+    {
+        "title": "CAMBIOS DURANTE EL SEGUNDO TRIMESTRE",
+        "subcontents": [
+            {
+                "type": "landscape_image",
+                "image_url": "https://itcraftapps.com/wp-content/uploads/2019/03/Flutter-Cover.png"
+            },
+            {
+                "type": "title",
+                "text":"CAMBIOS DURANTE EL SEGUNDO TRIMESTRE"
+            },
+            {
+                "type": "subtitle",
+                "text": "Desde el tercer al sexto mes o desde la semana 13 hasta la 27 puedo notar: " 
+            },
+            {
+                "type": "content_list",
+                "items": [
+                    "el crecimiento de mi panza.", "aumento de tamaño y mayor sensibilidad de mis pechos. Cambio en la coloración de la areola y de los pezones.", "manchas en la piel, pecas y lunares. Puede aparecer una línea oscura en medio de la panza que desaparece después del parto.", "calambres y/o molestias en la espalda, en la cintura o en la cadera.", "pueden desaparecer las náuseas y vómitos.", "es posible que mis encías estén sensibles y hasta pueden sangran" 
+                ]
+            },
+            {
+                "type": "image_only",
+                "image_url": "https://sitiorandom.com/wp-content/uploads/2019/05/Fondo_Y_Planeta-EXTENDIDO-1024x673.png" 
+            },
+            {
+                "type":"subtitle",
+                "text": "Mi bebé:"
+            },
+            {
+                "type":"images_carousel_and_list",
+                "items": ["comienza a moverse y yo comienzo a sentirlo.", "su corazón late más fuerte que el mío, ya se pueden escuchar sus latidos al auscultar mi panza.", "su sistema digestivo se desarrolla y ya puede chupar, tragar y orinar. Puede tener hipo, y esto es normal.", "su cara va adquiriendo un aspecto más parecido al que tendrá al nacer"],
+                "images": ["https://png.pngtree.com/thumb_back/fh260/background/20190827/pngtree-random-energy-wave-background-image_307670.jpg", "https://www.mandysam.com/img/random.jpg", "https://gaminglabs.com/wp-content/uploads/2019/07/GLI-RNG-Random-Number-Generator-Services.jpg", "https://png.pngtree.com/thumb_back/fh260/background/20200425/pngtree-abstract-random-color-paper-cut-slime-background-image_334596.jpg"]
+            },
+            {
+                "type":"content_list",
+                "items":[
+                    "comienza a percibir sonidos y sus ojos ya son sensibles a la luz.", "al final de este trimestre puede medir desde la cabeza hasta los pies 36,6 cm y pesar 875 gramos aproximadamente"
+                ]
+            },
+            {
+                "type": "important_content",
+                "text": "Puedo estimular a mi bebé con caricias suaves a mi panza, haciéndole escuchar mi voz y las voces de los otros miembros de la familia y música suave."
+            }
+        ]
+    },
+    {
+        "title": "MI SEGUNDA CONSULTA PRENATAL",
+        "subcontents":[
+            {
+                "type": "landscape_image",
+                "image_url": "https://itcraftapps.com/wp-content/uploads/2019/03/Flutter-Cover.png"
+            },
+            {
+                "type": "title",
+                "text":"MI SEGUNDA CONSULTA PRENATAL"
+            },
+            {
+                "type":"important_content",
+                "text": "Mi segunda consulta debo realizarla entre las 22 y las 26 semanas (5°mes al 5° mes y medio de embarazo)."
+            },
+            {
+                "type": "image_only",
+                "image_url": "https://sitiorandom.com/wp-content/uploads/2019/05/Fondo_Y_Planeta-EXTENDIDO-1024x673.png" 
+            },
+            {
+                "type":"content_text",
+                "text": "Consulto al personal de salud acerca de las reuniones del club de madres del servicio de salud." 
+            }
+        ]
+    }
+]

@@ -1,0 +1,85 @@
+[
+    {
+        "title": "CAMBIOS DURANTE EL TERCER TRIMESTRE",
+        "subcontents": [
+            {
+                "type": "landscape_image",
+                "image_url": "https://itcraftapps.com/wp-content/uploads/2019/03/Flutter-Cover.png"
+            },
+            {
+                "type": "title",
+                "text":"CAMBIOS DURANTE EL TERCER TRIMESTRE"
+            },
+            {
+                "type":"title",
+                "text": "Desde la semana 28 (6° mes) hasta el final del embarazo"
+            },
+            {
+                "type": "subtitle",
+                "text": "Puedo sentir:"
+            },
+            {
+                "type": "content_list",
+                "items": [
+                    "dificultad para respirar a medida que mi bebé va creciendo.", "molestias o puntadas en la zona pélvica (bajo vientre)"
+                ]
+            },
+            {
+                "type": "image_only",
+                "image_url": "https://sitiorandom.com/wp-content/uploads/2019/05/Fondo_Y_Planeta-EXTENDIDO-1024x673.png" 
+            },
+            {
+                "type":"subtitle",
+                "text": "Es importante que:"
+            },
+            {
+                "type":"images_carousel_and_list",
+                "items": ["descanse bien.", "encuentre posturas más cómodas en la cama, si quiero puedo utilizar almohada.", "Evito esfuerzos; como levantar cosas pesadas y trabajar más de 8 horas diarias"],
+                "images": ["https://png.pngtree.com/thumb_back/fh260/background/20190827/pngtree-random-energy-wave-background-image_307670.jpg", "https://www.mandysam.com/img/random.jpg", "https://gaminglabs.com/wp-content/uploads/2019/07/GLI-RNG-Random-Number-Generator-Services.jpg", "https://png.pngtree.com/thumb_back/fh260/background/20200425/pngtree-abstract-random-color-paper-cut-slime-background-image_334596.jpg"]
+            },
+            {
+                "type":"subtitle",
+                "text": "Mi bebé:"
+            },
+            {
+                "type":"content_list",
+                "items":[
+                    "realiza movimientos más notorios, añanduve chupe.", "en esta etapa sube más de peso y completará el desarrollo de sus pulmones"
+                ]
+            },
+            {
+                "type":"important_content",
+                "text": "Es Importante controlar los movimientos de mi bebé y acudir a un establecimiento de salud en cuanto note disminución o ausencia de los mismos."
+            }
+        ]
+    },
+    {
+        "title": "MI TERCERA CONSULTA PRENATAL",
+        "subcontents":[
+            {
+                "type": "landscape_image",
+                "image_url": "https://itcraftapps.com/wp-content/uploads/2019/03/Flutter-Cover.png"
+            },
+            {
+                "type": "title",
+                "text":"MI TERCERA CONSULTA PRENATAL"
+            },
+            {
+                "type":"important_content",
+                "text": "La tercera consulta debo realizarla entre las 27 y 32 semanas de embarazo (6° a 7° mes)"
+            },
+            {
+                "type": "image_only",
+                "image_url": "https://sitiorandom.com/wp-content/uploads/2019/05/Fondo_Y_Planeta-EXTENDIDO-1024x673.png" 
+            },
+            {
+                "type":"content_text",
+                "text": "Consulto al personal de salud acerca de las reuniones del club de madres del servicio de salud." 
+            },
+            {
+                "type":"important_content",
+                "text": "Es conveniente que visite el establecimiento de salud donde tendré mi parto con mi acompañante para familiarizarnos con el lugar y los trámites del ingreso. "
+            }
+        ]
+    }
+]

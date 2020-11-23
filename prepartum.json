@@ -1,0 +1,75 @@
+[
+    {
+        "title": "MI CUARTA CONSULTA PRENATAL",
+        "subcontents": [
+            {
+                "type": "landscape_image",
+                "image_url": "https://itcraftapps.com/wp-content/uploads/2019/03/Flutter-Cover.png"
+            },
+            {
+                "type": "title",
+                "text":"MI CUARTA CONSULTA PRENATAL"
+            },
+            {
+                "type":"content_text",
+                "text": "La cuarta consulta debo hacerla entre las 36 y 38 semanas de embarazo (8°mes)." 
+            },
+            {
+                "type": "image_only",
+                "image_url": "https://sitiorandom.com/wp-content/uploads/2019/05/Fondo_Y_Planeta-EXTENDIDO-1024x673.png" 
+            },
+            {
+                "type":"important_content",
+                "text": "Es importante que pueda preparar lo que necesito para el momento de mi parto así como lo que necesite mi bebé. Pregunto sobre dudas de alimentación, cuidados de mi salud y la de mi bebé. "
+            }
+        ]
+    },
+    {
+        "title": "PREPARANDO MÍ PARTO",
+        "subcontents": [
+            {
+                "type": "landscape_image",
+                "image_url": "https://itcraftapps.com/wp-content/uploads/2019/03/Flutter-Cover.png"
+            },
+            {
+                "type": "title",
+                "text":"PREPARANDO MÍ PARTO"
+            },
+            {
+                "type":"title",
+                "text": "El parto es un proceso natural que ocurre habitualmente entre las 38 y 40 semanas del embarazo"
+            },
+            {
+                "type":"subtitle",
+                "text": "Los bebés pueden nacer por parto: "
+            },
+            {
+                "type": "content_list",
+                "items": [
+                    "Los bebés pueden nacer por parto: .", "cesárea, que es un procedimiento quirúrgico que se debe realizar solo en casos específicos indicados por el médico"
+                ]
+            },
+            {
+                "type": "image_only",
+                "image_url": "https://sitiorandom.com/wp-content/uploads/2019/05/Fondo_Y_Planeta-EXTENDIDO-1024x673.png" 
+            },
+            {
+                "type":"title",
+                "text":"TRABAJO DE PARTO"
+            },
+            {
+                "type": "images_carousel_and_text",
+                "text": "A veces el primer signo o seña de que estamos empezando el trabajo de parto es la pérdida del tapón mucoso. El tapón es una sustancia mucosa o gelatinosa, sanguinolenta o amarronada, que se elimina por la vagina. Esto es normal, y no significa que debemos ir inmediatamente al servicio de salud, salvo que tengamos algún signo de alarma. Durante el inicio del trabajo de parto sentimos un endurecimiento en la panza, es por las contracciones, que son espaciadas, duran menos de 30 segundos y se presentan cada media hora. ",
+                "images": ["https://gaminglabs.com/wp-content/uploads/2019/07/GLI-RNG-Random-Number-Generator-Services.jpg", "https://png.pngtree.com/thumb_back/fh260/background/20200425/pngtree-abstract-random-color-paper-cut-slime-background-image_334596.jpg"]    
+            },
+            {
+                "type": "content_text",
+                "text": "Las contracciones se hacen más frecuentes, cada 5 minutos y duran más de 30 segundos, esto quiere decir que se inició el trabajo de parto. Estas contracciones son las que ayudan a que el cuello del útero vaya dilatando. Por lo tanto si no tienes algún signo de alarma o factor de riesgo, podes esperar dos a cuatro horas después del inicio de las contracciones para llegar al servicio de salud. Si tienes algún signo de alarma o factor de riesgo es importante que acudas lo antes posible."
+            },
+            {
+                "type":"content_text",
+                "text":"Un parto humanizado es aquel que respeta los ritmos fisiológicos del trabajo de parto, y este proceso debe darse en un ambiente de privacidad física y emocional. Tienes derecho a elegir a una persona de tu confianza a que te acompañe y apoye en todo momento. Consulta con el personal de salud de la guardia la disponibilidad de infraestructura para que alguien te acompañe durante el trabajo de parto y el parto."
+            }
+        ]
+    }
+]

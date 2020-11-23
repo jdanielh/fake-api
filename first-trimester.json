@@ -1,0 +1,77 @@
+[
+    {
+        "title": "CAMBIOS DURANTE EL PRIMER TRIMESTRE",
+        "subcontents": [
+            {
+                "type": "landscape_image",
+                "image_url": "https://itcraftapps.com/wp-content/uploads/2019/03/Flutter-Cover.png"
+            },
+            {
+                "type": "title",
+                "text":"CAMBIOS DURANTE EL PRIMER TRIMESTRE"
+            },
+            {
+                "type": "title",
+                "text": "Los 3 primeros meses, es decir las 12 primeras semanas"
+            },
+            {
+                "type": "subtitle",
+                "text": "Los cambios que puedo sentir son:"
+            },
+            {
+                "type": "content_list",
+                "items": [
+                    "estoy más sensible, tengo sueño, cambia mi ánimo y tengo menos energía, che kaigue, che ropehýi.", "tengo náuseas o malestar cuando huelo ciertos olores y alimentos, py’ájere.", "mis pechos están “cargados”, hinchados, tensos o se vuelven más grandes"
+                ]
+            }, 
+            {
+                "type": "image_only",
+                "image_url": "https://sitiorandom.com/wp-content/uploads/2019/05/Fondo_Y_Planeta-EXTENDIDO-1024x673.png" 
+            },
+            {
+                "type": "image_with_text",
+                "image_url": "https://sintomasde.org/wp-content/uploads/2018/06/S%C3%ADntomas-de-un-%C3%B3vulo-fecundado-1280x720.jpg",
+                "text": "El óvulo fecundado, llamado cigoto, va cambiando de forma y se mueve hasta llegar a mi útero donde se anida o implanta al 7° día. "
+            },
+            {
+                "type": "image_with_text",
+                "image_url": "https://mibebeyyo.elmundo.es/images/herramientas/tu-embarazo/semana-7-de-embarazo.webp",
+                "text": "Cuando alcanza las 4 semanas su tamaño es como el de un grano de arroz. Al pasar los días va creciendo y formándose. Al terminar las 8 semanas tiene el tamaño de una arveja y su peso es menos de 7 gramos. En este tiempo se forman sus manos, sus dedos y sus órganos internos."
+            },
+            {
+                "type": "image_with_text",
+                "image_url": "https://blogdelbebe.com/wp-content/uploads/2018/12/Semana-12_-min.jpg",
+                "text": "Entre las 9 a 12 semanas, su cara ya está casi toda completa, y sus ojos ya tienen párpados. Además, se forma el cordón umbilical, por donde se alimentará a partir de ahora. Comienza a mover sus brazos y sus piernas, aunque aún no puedo sentirlo"
+            },
+            {
+                "type": "important_content",
+                "text": "En esta etapa se forman todos los órganos de mi bebé, por eso no debo tomar medicamentos sin que me los recete el médico. Tampoco debo consumir alcohol, tabaco ni ningún tipo de drogas. El uso de cualquiera de estas sustancias, tienen resultados adversos para mi embarazo, y por lo tanto para mi bebé"
+            }
+        ]
+    },
+    {
+        "title": "MI PRIMERA CONSULTA PRENATAL",
+        "subcontents":[
+            {
+                "type": "landscape_image",
+                "image_url": "https://itcraftapps.com/wp-content/uploads/2019/03/Flutter-Cover.png"
+            },
+            {
+                "type": "title",
+                "text":"MI PRIMERA CONSULTA PRENATAL"
+            },
+            {
+                "type":"important_content",
+                "text": "Mi primera consulta la debo realizar cuando sospecho que estoy embarazada, en los primeros 3 meses (12 semanas) "
+            },
+            {
+                "type": "image_only",
+                "image_url": "https://sitiorandom.com/wp-content/uploads/2019/05/Fondo_Y_Planeta-EXTENDIDO-1024x673.png" 
+            },
+            {
+                "type":"content_text",
+                "text": "Consulto al personal de salud acerca de las reuniones del club de madres del servicio de salud." 
+            }
+        ]
+    }
+]
