@@ -1,6 +1,7 @@
 [
     {
         "title": "CAMBIOS DURANTE EL SEGUNDO TRIMESTRE",
+        "img":"https://itcraftapps.com/wp-content/uploads/2019/03/Flutter-Cover.png",
         "subcontents": [
             {
                 "type": "landscape_image",
@@ -47,6 +48,7 @@
     },
     {
         "title": "MI SEGUNDA CONSULTA PRENATAL",
+        "img":"https://itcraftapps.com/wp-content/uploads/2019/03/Flutter-Cover.png",
         "subcontents":[
             {
                 "type": "landscape_image",

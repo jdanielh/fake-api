@@ -1,6 +1,7 @@
 [
     {
         "title": "MIS DERECHOS DURANTE EL EMBARAZO, PARTO Y PUERPERIO",
+        "img":"https://itcraftapps.com/wp-content/uploads/2019/03/Flutter-Cover.png",
         "subcontents": [
             {
                 "type": "landscape_image",
@@ -51,6 +52,7 @@
     },
     {
         "title": "CUIDANDO MI SALUD Y LA DE MI BEBÉ",
+        "img":"https://itcraftapps.com/wp-content/uploads/2019/03/Flutter-Cover.png",
         "subcontents": [
             {
                 "type": "landscape_image",
@@ -124,6 +126,7 @@
     },
     {
         "title": "ALIMENTACIÓN EN EL EMBARAZO Y PUERPERIO",
+        "img":"https://itcraftapps.com/wp-content/uploads/2019/03/Flutter-Cover.png",
         "subcontents":[
             {
                 "type": "landscape_image",
@@ -176,6 +179,7 @@
     },
     {
         "title": "FACTORES DE RIESGO DURANTE EL EMBARAZO ",
+        "img":"https://itcraftapps.com/wp-content/uploads/2019/03/Flutter-Cover.png",
         "subcontents":[
             {
                 "type": "landscape_image",
@@ -256,6 +260,7 @@
     },
     {
         "title": "ZIKA",
+        "img":"https://itcraftapps.com/wp-content/uploads/2019/03/Flutter-Cover.png",
         "subcontents":[
             {
                 "type": "landscape_image",
@@ -353,6 +358,7 @@
     },
     {
         "title": "ATENCIÓN PRENATAL",
+        "img":"https://itcraftapps.com/wp-content/uploads/2019/03/Flutter-Cover.png",
         "subcontents":[
             {
                 "type": "landscape_image",
@@ -439,6 +445,7 @@
     },
     {
         "title": "PERSONA ACOMPAÑANTE",
+        "img":"https://itcraftapps.com/wp-content/uploads/2019/03/Flutter-Cover.png",
         "subcontents":[
             {
                 "type": "landscape_image",
@@ -485,6 +492,7 @@
     },
     {
         "title": "EL PRENATAL DE LA PAREJA",
+        "img":"https://itcraftapps.com/wp-content/uploads/2019/03/Flutter-Cover.png",
         "subcontents":[
                 {
                     "type": "landscape_image",

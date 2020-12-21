@@ -1,6 +1,7 @@
 [
     {
         "title": "CAMBIOS DURANTE EL TERCER TRIMESTRE",
+        "img":"https://itcraftapps.com/wp-content/uploads/2019/03/Flutter-Cover.png",
         "subcontents": [
             {
                 "type": "landscape_image",
@@ -55,6 +56,7 @@
     },
     {
         "title": "MI TERCERA CONSULTA PRENATAL",
+        "img":"https://itcraftapps.com/wp-content/uploads/2019/03/Flutter-Cover.png",
         "subcontents":[
             {
                 "type": "landscape_image",
