@@ -42,6 +42,7 @@
             },
             {
                 "type": "important_content",
+                "color": "0xff4D9EF6",
                 "text": "Puedo estimular a mi bebé con caricias suaves a mi panza, haciéndole escuchar mi voz y las voces de los otros miembros de la familia y música suave."
             }
         ]
@@ -60,6 +61,7 @@
             },
             {
                 "type":"important_content",
+                "color": "0xff4D9EF6",
                 "text": "Mi segunda consulta debo realizarla entre las 22 y las 26 semanas (5°mes al 5° mes y medio de embarazo)."
             },
             {

@@ -46,6 +46,7 @@
             },
             {
                 "type": "important_content",
+                "color": "0xff4D9EF6",
                 "text": "En esta etapa se forman todos los órganos de mi bebé, por eso no debo tomar medicamentos sin que me los recete el médico. Tampoco debo consumir alcohol, tabaco ni ningún tipo de drogas. El uso de cualquiera de estas sustancias, tienen resultados adversos para mi embarazo, y por lo tanto para mi bebé"
             }
         ]
@@ -64,6 +65,7 @@
             },
             {
                 "type":"important_content",
+                "color": "0xff4D9EF6",
                 "text": "Mi primera consulta la debo realizar cuando sospecho que estoy embarazada, en los primeros 3 meses (12 semanas) "
             },
             {

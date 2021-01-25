@@ -50,6 +50,7 @@
             },
             {
                 "type":"important_content",
+                "color": "0xff4D9EF6",
                 "text": "Es Importante controlar los movimientos de mi bebé y acudir a un establecimiento de salud en cuanto note disminución o ausencia de los mismos."
             }
         ]
@@ -68,6 +69,7 @@
             },
             {
                 "type":"important_content",
+                "color": "0xff4D9EF6",
                 "text": "La tercera consulta debo realizarla entre las 27 y 32 semanas de embarazo (6° a 7° mes)"
             },
             {
@@ -80,6 +82,7 @@
             },
             {
                 "type":"important_content",
+                "color": "0xff4D9EF6",
                 "text": "Es conveniente que visite el establecimiento de salud donde tendré mi parto con mi acompañante para familiarizarnos con el lugar y los trámites del ingreso. "
             }
         ]

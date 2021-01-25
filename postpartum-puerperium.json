@@ -54,6 +54,7 @@
             },
             {
                 "type": "important_content",
+                "color": "0xff4D9EF6",
                 "text": "Debes volver al servicio de salud a los 8 días después de tu parto para control o ante cualquier signo de alarma."
             },
             {
@@ -158,6 +159,7 @@
             },
             {
                 "type":"important_content",
+                "color": "0xff4D9EF6",
                 "text": "El llanto puede ser una señal tardía de hambre"
             },
             {
@@ -186,6 +188,7 @@
             },
             {
                 "type":"important_content",
+                "color": "0xff4D9EF6",
                 "text": "Las mujeres están preparadas para dar de mamar a sus bebés y pueden amamantar exitosamente."
             },
             {
@@ -463,6 +466,7 @@
             },
             {
                 "type":"important_content",
+                "color": "0xff4D9EF6",
                 "text": "Es fundamental que tengas la aprobación de tu médico antes de empezar a realizar cualquier tipo de ejercicio."
             }
 
