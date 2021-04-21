@@ -15,7 +15,8 @@
                 "presentation_id": 2, 
                 "quantity": 2, 
                 "availability": 50, 
-                "image_url": "http://www.stock.com.py/images/thumbs/0138436.jpeg"
+                "image_url": "http://www.stock.com.py/images/thumbs/0138436.jpeg",
+                "state": null
             },
             {
                 "id": 2,
@@ -24,7 +25,8 @@
                 "presentation_id": 5, 
                 "quantity": 1, 
                 "availability": 30, 
-                "image_url": "https://images.heb.com/is/image/HEBGrocery/001397056"
+                "image_url": "https://images.heb.com/is/image/HEBGrocery/001397056",
+                "state": null
             },
             {
                 "id": 3,
@@ -33,7 +35,8 @@
                 "presentation_id": 3, 
                 "quantity": 1, 
                 "availability": 20, 
-                "image_url": "https://tiaecuador.vteximg.com.br/arquivos/ids/170789/257426000.jpg?v=637348493537970000"
+                "image_url": "https://tiaecuador.vteximg.com.br/arquivos/ids/170789/257426000.jpg?v=637348493537970000",
+                "state": null
             }
         ]
 
@@ -54,7 +57,8 @@
                 "presentation_id": 2, 
                 "quantity": 2, 
                 "availability": 10, 
-                "image_url": "http://www.stock.com.py/images/thumbs/0138436.jpeg"
+                "image_url": "http://www.stock.com.py/images/thumbs/0138436.jpeg",
+                "state": null
             },
             {
                 "id": 7,
@@ -63,7 +67,8 @@
                 "presentation_id": 8, 
                 "quantity": 1, 
                 "availability": 15, 
-                "image_url": "https://images.heb.com/is/image/HEBGrocery/001397056"
+                "image_url": "https://images.heb.com/is/image/HEBGrocery/001397056",
+                "state": null
             },
             {
                 "id": 3,
@@ -72,7 +77,8 @@
                 "presentation_id": 3, 
                 "quantity": 1, 
                 "availability": 20, 
-                "image_url": "https://tiaecuador.vteximg.com.br/arquivos/ids/170789/257426000.jpg?v=637348493537970000"
+                "image_url": "https://tiaecuador.vteximg.com.br/arquivos/ids/170789/257426000.jpg?v=637348493537970000",
+                "state": null
             }
         ]
 
