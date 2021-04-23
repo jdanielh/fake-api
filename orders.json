@@ -9,34 +9,52 @@
         },
         "products": [
             {
-                "id": 1,
-                "name": "Pan Felipe",
-                "price": 3000,
-                "presentation_id": 2, 
-                "quantity": 2, 
-                "availability": 50, 
-                "image_url": "http://www.stock.com.py/images/thumbs/0138436.jpeg",
-                "state": null
+                "product": {
+                    "id": 1,
+                    "name": "Pan Felipe",
+                    "price": 3000,
+                    "presentation_id": 2, 
+                    "quantity": 2, 
+                    "availability": 50, 
+                    "image_url": "http://www.stock.com.py/images/thumbs/0138436.jpeg",
+                    "state": null
+                }, 
+                "quantity": 2,
+                "canBeReplaced": true,
+                "replacement": "Lorem ipsum Lorem ipsum Lorem ipsum",
+                "observation": "Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum"
             },
             {
-                "id": 2,
-                "name": "Coca-Cola",
-                "price": 10000,
-                "presentation_id": 5, 
-                "quantity": 1, 
-                "availability": 30, 
-                "image_url": "https://images.heb.com/is/image/HEBGrocery/001397056",
-                "state": null
+                "product": {
+                    "id": 2,
+                    "name": "Coca-Cola",
+                    "price": 10000,
+                    "presentation_id": 5, 
+                    "quantity": 1, 
+                    "availability": 30, 
+                    "image_url": "https://images.heb.com/is/image/HEBGrocery/001397056",
+                    "state": null
+                },
+                "quantity": 1,
+                "canBeReplaced": true,
+                "replacement": "Lorem ipsum Lorem ipsum Lorem ipsum",
+                "observation": "Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum"
             },
             {
-                "id": 3,
-                "name": "Aceite Girasol",
-                "price": 15000,
-                "presentation_id": 3, 
-                "quantity": 1, 
-                "availability": 20, 
-                "image_url": "https://tiaecuador.vteximg.com.br/arquivos/ids/170789/257426000.jpg?v=637348493537970000",
-                "state": null
+                "product": {
+                    "id": 3,
+                    "name": "Aceite Girasol",
+                    "price": 15000,
+                    "presentation_id": 3, 
+                    "quantity": 1, 
+                    "availability": 20, 
+                    "image_url": "https://tiaecuador.vteximg.com.br/arquivos/ids/170789/257426000.jpg?v=637348493537970000",
+                    "state": null
+                },
+            "quantity": 1,
+            "canBeReplaced": false,
+            "replacement": "Lorem ipsum Lorem ipsum Lorem ipsum",
+            "observation": "Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum"
             }
         ]
 
@@ -51,34 +69,52 @@
         },
         "products": [
             {
-                "id": 10,
-                "name": "Jabon de tocador Dove",
-                "price": 5000,
-                "presentation_id": 2, 
-                "quantity": 2, 
-                "availability": 10, 
-                "image_url": "http://www.stock.com.py/images/thumbs/0138436.jpeg",
-                "state": null
+                "product": {
+                    "id": 10,
+                    "name": "Jabon de tocador Dove",
+                    "price": 5000,
+                    "presentation_id": 2, 
+                    "quantity": 2, 
+                    "availability": 10, 
+                    "image_url": "http://www.stock.com.py/images/thumbs/0138436.jpeg",
+                    "state": null
+                },
+                "quantity": 2,
+                "canBeReplaced": false,
+                "replacement": "Lorem ipsum Lorem ipsum Lorem ipsum",
+                "observation": "Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum"
             },
             {
-                "id": 7,
-                "name": "Detergente",
-                "price": 3500,
-                "presentation_id": 8, 
-                "quantity": 1, 
-                "availability": 15, 
-                "image_url": "https://images.heb.com/is/image/HEBGrocery/001397056",
-                "state": null
+                "product": {
+                    "id": 7,
+                    "name": "Detergente",
+                    "price": 3500,
+                    "presentation_id": 8, 
+                    "quantity": 1, 
+                    "availability": 15, 
+                    "image_url": "https://images.heb.com/is/image/HEBGrocery/001397056",
+                    "state": null
+                },
+                "quantity": 1,
+                "canBeReplaced": true,
+                "replacement": "Lorem ipsum Lorem ipsum Lorem ipsum",
+                "observation": "Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum"
             },
             {
-                "id": 3,
-                "name": "Aceite Girasol",
-                "price": 15000,
-                "presentation_id": 3, 
-                "quantity": 1, 
-                "availability": 20, 
-                "image_url": "https://tiaecuador.vteximg.com.br/arquivos/ids/170789/257426000.jpg?v=637348493537970000",
-                "state": null
+                "product": {
+                    "id": 3,
+                    "name": "Aceite Girasol",
+                    "price": 15000,
+                    "presentation_id": 3, 
+                    "quantity": 1, 
+                    "availability": 20, 
+                    "image_url": "https://tiaecuador.vteximg.com.br/arquivos/ids/170789/257426000.jpg?v=637348493537970000",
+                    "state": null
+                },
+                "quantity": 1,
+                "canBeReplaced": false,
+                "replacement": "Lorem ipsum Lorem ipsum Lorem ipsum",
+                "observation": "Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum"
             }
         ]
 
